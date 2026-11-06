@@ -1,0 +1,8 @@
+{
+  "name": "Landing page - kerol & kaleo worship",
+  "description": "Website oficial de pré-lançamento de Kerol & Kaleo Worship: louvores autorais, pre-save com caderno de cifras, bastidores e contato para convites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
